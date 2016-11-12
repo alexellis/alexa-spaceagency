@@ -1,6 +1,6 @@
 "use strict"
 
-var APP_ID = "amzn1.ask.skill.4a71a0a0-d0e6-4ca7-a99b-2715e5772755";
+var APP_ID = undefined;
 
 var request = require("request");
 
