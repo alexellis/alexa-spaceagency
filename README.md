@@ -1,5 +1,13 @@
-# Sample AWS Lambda function for Alexa
+# Space Agency - AWS Lambda function for Alexa 
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK.
+
+## Quick overview
+
+**Phrases:**
+
+* Alex ask space agency how many people are in space?
+
+This guide is based upon the "Hello World" example in the JavaScript SDK. Follow this guide replacing the word "Hello World" with "Space Agency"
 
 ## Concepts
 This simple sample has no external dependencies or session management, and shows the most basic example of how to create a Lambda function for handling Alexa Skill requests.
